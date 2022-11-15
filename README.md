@@ -1,6 +1,6 @@
 # Library-management-ProGrad
 
-Admin details: to oopem library
+Admin details: to open library
 
 
 User name: admin@gmail.com
