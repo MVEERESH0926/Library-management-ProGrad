@@ -1,8 +1,11 @@
 # Library-management-ProGrad
 
 Admin details: to oopem library
-user name: admin@gmail.com
-password : admin@123
+
+
+User name: admin@gmail.com
+
+Password : admin@123
 
 
 A web based online Library system with end to end functionalities using MySQL for backend and HTML, CSS, JQuery, PHP for the front end.
